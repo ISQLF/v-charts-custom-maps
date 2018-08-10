@@ -4,3 +4,4 @@
 | -- | -- |
 | 中国大区划分 | china-regions |
 | 香港 | hk-geo |
+| 美国 | usa |
