@@ -1,0 +1,17 @@
+{
+  "name": "v-charts-custom-maps",
+  "version": "0.1.0",
+  "description": "map resource of v-charts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiguaxigua/v-charts-custom-maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiguaxigua/v-charts-custom-maps/issues"
+  },
+  "homepage": "https://github.com/xiguaxigua/v-charts-custom-maps#readme"
+}
