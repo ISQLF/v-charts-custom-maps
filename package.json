@@ -1,6 +1,6 @@
 {
   "name": "v-charts-custom-maps",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "map resource of v-charts",
   "main": "index.js",
   "repository": {
